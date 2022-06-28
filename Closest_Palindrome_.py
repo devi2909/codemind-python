@@ -26,4 +26,3 @@ elif pal(i):
     print(i)
 else:
     print(j)
-    
